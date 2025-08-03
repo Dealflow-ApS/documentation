@@ -4,8 +4,7 @@
 [![License](https://img.shields.io/github/license/sebhaugeto/docs?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A//www.dealflow.live)](https://www.dealflow.live)
 
-Welcome to the official documentation for Dealflow - the next-gen invoicing platform that solves international payment headaches with local bank accounts.
-
+Welcome to the official documentation for Dealflow - the next-gen invoicing platform for global companies.
 ## 🚀 Intro
 
 Dealflow is a next-gen invoicing tool that finally solves the headache of international bank transfers via IBAN/SWIFT. It does that by giving each access to **local bank accounts** in their customer's country. This innovative approach makes international payments as simple, instant and free as normal local transfers. 
