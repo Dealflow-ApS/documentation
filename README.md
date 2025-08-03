@@ -9,9 +9,7 @@ Welcome to the official documentation for Dealflow - the next-gen invoicing plat
 
 Dealflow finally solves the headache of international bank transfers that comes with IBAN/SWIFT. It does that by giving each customer access to **local bank accounts** in their customer's country. This innovative approach makes international payments as simple, instant and free as normal local transfers. 
 
-## 📖 Documentation menu
-
-This documentation covers:
+## 📖 Menu
 
 - **Quick Start Guide** - Get up and running in minutes
 - **Authentication** - Secure API authentication methods
