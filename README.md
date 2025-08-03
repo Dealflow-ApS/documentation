@@ -7,7 +7,7 @@
 Welcome to the official documentation for Dealflow - the next-gen invoicing platform for global companies.
 ## 🚀 Intro
 
-Dealflow is a next-gen invoicing tool that finally solves the headache of international bank transfers via IBAN/SWIFT. It does that by giving each access to **local bank accounts** in their customer's country. This innovative approach makes international payments as simple, instant and free as normal local transfers. 
+Dealflow finally solves the headache of international bank transfers that comes with IBAN/SWIFT. It does that by giving each customer access to **local bank accounts** in their customer's country. This innovative approach makes international payments as simple, instant and free as normal local transfers. 
 
 ## 📖 Documentation menu
 
