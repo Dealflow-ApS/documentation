@@ -1,4 +1,4 @@
-# Dealflow Documentation
+# The Dealflow Docs
 
 [![Mintlify](https://img.shields.io/badge/Powered_by-Mintlify-mint?style=flat-square)](https://mintlify.com)
 [![License](https://img.shields.io/github/license/sebhaugeto/docs?style=flat-square)](LICENSE)
