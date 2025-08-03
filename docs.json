@@ -1,0 +1,68 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "maple",
+  "name": "Dealflow Docs",
+  "colors": {
+    "primary": "#D377D3", 
+    "light": "#DF9FDF",    
+    "dark": "#A03CA7"
+  },
+  "favicon": "/Dealflow favicon.svg",
+  "navigation": {
+  "groups": [
+    {
+      "group": "Getting started",
+      "pages": [ "getting-started/introduction", "getting-started/quickstart", "getting-started/authentication","getting-started/rate-limit" ]
+    },
+    {
+      "group": "Example pages",
+      "pages": [ "example-pages/settings", "example-pages/navigation","example-pages/markdown", "example-pages/code", "example-pages/images", "example-pages/reusable-snippets" ]
+    },
+    {
+      "group": "API: invoicing",
+      "pages": ["api-reference/create", "api-reference/delete", "api-reference/get" ]
+    }
+  ],
+  "global": {
+    "anchors": [
+        {
+          "anchor": "Release notes",
+          "href": "https://www.dealflow.live/blog",
+          "icon": "newspaper"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hello@dealflow.live"
+      }
+    ]
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "footer": {
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/dealflowapp"
+    }
+  },
+  "icons": {
+    "library": "lucide"
+  }
+}
