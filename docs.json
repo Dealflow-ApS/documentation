@@ -19,7 +19,7 @@
       "pages": [ "example-pages/navigation", "example-pages/code", "example-pages/images" ]
     },
     {
-      "group": "API: invoicing",
+      "group": "API: transactions",
       "pages": ["api-reference/create", "api-reference/delete", "api-reference/get" ]
     }
   ],
